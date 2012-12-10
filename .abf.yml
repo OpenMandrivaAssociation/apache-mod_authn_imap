@@ -1,4 +1,2 @@
 sources:
-  "B42_mod_authn_imap.conf:"	b71e94c022912c75623ccd71fb4e61b561f86353
-  "mod_imap-0.01.tar.gz:"	fe8620b4e8fdb53a1c7c579a00911dbdaacd98a3
-  "mod_imap-0.01.tar.gz.asc:"	f36b6a1169b8d03e38b405a06af0ae1728641255
+  "mod_imap-0.01.tar.gz": fe8620b4e8fdb53a1c7c579a00911dbdaacd98a3
