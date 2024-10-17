@@ -9,7 +9,7 @@ Version:	0.01
 Release: 	8
 Group:		System/Servers
 License:	Apache License
-URL:		http://www.s5h.net/code/mod-imap/
+URL:		https://www.s5h.net/code/mod-imap/
 Source0:	http://www.s5h.net/code/mod-imap/mod_imap-%{version}.tar.gz
 Source1:	http://www.s5h.net/code/mod-imap/mod_imap-%{version}.tar.gz.asc
 Source2:	%{mod_conf}
